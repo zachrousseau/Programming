@@ -92,20 +92,7 @@ def draw_move(board):
 
 if __name__ == '__main__':
     import random
-    # print_hi('Zach')
 
-    # ask_name()
-    # multiply_number()
-    # print_letter_count()
-
-    # choice = input("Do you want to do the array flip (a) or coin flip (c)")
-    # if(choice == "a"):
-    #   array_flip()
-    # elif(choice == "c"):
-    #    coin_flip()
-    # else:
-    #    print("Sorry that is not an option...")
-    # Tic Tac Continued
     grid = [[1, 2, 3, ],
             [4, 'X', 6],
             [7, 8, 9]]
